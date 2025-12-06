@@ -1,0 +1,45 @@
+INFO 2025-12-06 12:27:45 db_utils.py:102 [1m[34mLogs will be synced with wandb.[0m
+INFO 2025-12-06 12:27:45 db_utils.py:103 Track this run --> [1m[33mhttps://wandb.ai/22t1044-/lerobot/runs/na0wttcv[0m
+INFO 2025-12-06 12:27:45 ot_train.py:183 Creating dataset
+INFO 2025-12-06 12:27:45 ot_train.py:202 Creating policy
+INFO 2025-12-06 12:27:46 ot_train.py:247 Creating optimizer and scheduler
+INFO 2025-12-06 12:27:46 ot_train.py:259 [1m[33mOutput dir:[0m outputs/train/red-pen9
+INFO 2025-12-06 12:27:46 ot_train.py:262 cfg.steps=6000 (6K)
+INFO 2025-12-06 12:27:46 ot_train.py:263 dataset.num_frames=3051 (3K)
+INFO 2025-12-06 12:27:46 ot_train.py:264 dataset.num_episodes=20
+INFO 2025-12-06 12:27:46 ot_train.py:267 Effective batch size: 5 x 1 = 5
+INFO 2025-12-06 12:27:46 ot_train.py:268 num_learnable_params=51597190 (52M)
+INFO 2025-12-06 12:27:46 ot_train.py:269 num_total_params=51597190 (52M)
+INFO 2025-12-06 12:27:46 ot_train.py:324 Start offline training on a fixed dataset
+INFO 2025-12-06 12:28:49 ot_train.py:351 step:200 smpl:1K ep:7 epch:0.33 loss:6.608 grdn:180.184 lr:1.0e-05 updt_s:0.308 data_s:0.007
+INFO 2025-12-06 12:29:11 ot_train.py:351 step:400 smpl:2K ep:13 epch:0.66 loss:3.032 grdn:102.175 lr:1.0e-05 updt_s:0.105 data_s:0.003
+INFO 2025-12-06 12:29:32 ot_train.py:351 step:600 smpl:3K ep:20 epch:0.98 loss:2.591 grdn:92.169 lr:1.0e-05 updt_s:0.105 data_s:0.003
+INFO 2025-12-06 12:30:09 ot_train.py:351 step:800 smpl:4K ep:26 epch:1.31 loss:2.261 grdn:87.200 lr:1.0e-05 updt_s:0.166 data_s:0.015
+INFO 2025-12-06 12:30:31 ot_train.py:351 step:1K smpl:5K ep:33 epch:1.64 loss:2.051 grdn:83.117 lr:1.0e-05 updt_s:0.106 data_s:0.003
+INFO 2025-12-06 12:30:52 ot_train.py:351 step:1K smpl:6K ep:39 epch:1.97 loss:1.901 grdn:81.169 lr:1.0e-05 updt_s:0.105 data_s:0.003
+INFO 2025-12-06 12:31:17 ot_train.py:351 step:1K smpl:7K ep:46 epch:2.29 loss:1.733 grdn:76.264 lr:1.0e-05 updt_s:0.105 data_s:0.017
+INFO 2025-12-06 12:31:39 ot_train.py:351 step:2K smpl:8K ep:52 epch:2.62 loss:1.617 grdn:73.655 lr:1.0e-05 updt_s:0.105 data_s:0.003
+INFO 2025-12-06 12:32:00 ot_train.py:351 step:2K smpl:9K ep:59 epch:2.95 loss:1.481 grdn:69.770 lr:1.0e-05 updt_s:0.105 data_s:0.003
+INFO 2025-12-06 12:32:25 ot_train.py:351 step:2K smpl:10K ep:66 epch:3.28 loss:1.372 grdn:67.537 lr:1.0e-05 updt_s:0.105 data_s:0.020
+INFO 2025-12-06 12:32:47 ot_train.py:351 step:2K smpl:11K ep:72 epch:3.61 loss:1.258 grdn:62.986 lr:1.0e-05 updt_s:0.105 data_s:0.003
+INFO 2025-12-06 12:33:09 ot_train.py:351 step:2K smpl:12K ep:79 epch:3.93 loss:1.185 grdn:60.066 lr:1.0e-05 updt_s:0.105 data_s:0.003
+INFO 2025-12-06 12:33:34 ot_train.py:351 step:3K smpl:13K ep:85 epch:4.26 loss:1.087 grdn:58.484 lr:1.0e-05 updt_s:0.105 data_s:0.020
+INFO 2025-12-06 12:33:56 ot_train.py:351 step:3K smpl:14K ep:92 epch:4.59 loss:1.009 grdn:56.571 lr:1.0e-05 updt_s:0.104 data_s:0.003
+INFO 2025-12-06 12:34:17 ot_train.py:351 step:3K smpl:15K ep:98 epch:4.92 loss:0.940 grdn:53.338 lr:1.0e-05 updt_s:0.105 data_s:0.003
+INFO 2025-12-06 12:34:42 ot_train.py:351 step:3K smpl:16K ep:105 epch:5.24 loss:0.861 grdn:50.807 lr:1.0e-05 updt_s:0.105 data_s:0.018
+INFO 2025-12-06 12:35:04 ot_train.py:351 step:3K smpl:17K ep:111 epch:5.57 loss:0.788 grdn:48.358 lr:1.0e-05 updt_s:0.105 data_s:0.003
+INFO 2025-12-06 12:35:26 ot_train.py:351 step:4K smpl:18K ep:118 epch:5.90 loss:0.750 grdn:47.394 lr:1.0e-05 updt_s:0.105 data_s:0.003
+INFO 2025-12-06 12:35:50 ot_train.py:351 step:4K smpl:19K ep:125 epch:6.23 loss:0.686 grdn:44.630 lr:1.0e-05 updt_s:0.105 data_s:0.017
+INFO 2025-12-06 12:36:12 ot_train.py:351 step:4K smpl:20K ep:131 epch:6.56 loss:0.632 grdn:42.129 lr:1.0e-05 updt_s:0.105 data_s:0.003
+INFO 2025-12-06 12:36:34 ot_train.py:351 step:4K smpl:21K ep:138 epch:6.88 loss:0.593 grdn:41.510 lr:1.0e-05 updt_s:0.106 data_s:0.003
+INFO 2025-12-06 12:36:59 ot_train.py:351 step:4K smpl:22K ep:144 epch:7.21 loss:0.563 grdn:39.946 lr:1.0e-05 updt_s:0.106 data_s:0.018
+INFO 2025-12-06 12:37:20 ot_train.py:351 step:5K smpl:23K ep:151 epch:7.54 loss:0.514 grdn:37.875 lr:1.0e-05 updt_s:0.105 data_s:0.003
+INFO 2025-12-06 12:37:42 ot_train.py:351 step:5K smpl:24K ep:157 epch:7.87 loss:0.499 grdn:37.533 lr:1.0e-05 updt_s:0.105 data_s:0.003
+INFO 2025-12-06 12:38:07 ot_train.py:351 step:5K smpl:25K ep:164 epch:8.19 loss:0.465 grdn:35.959 lr:1.0e-05 updt_s:0.105 data_s:0.018
+INFO 2025-12-06 12:38:29 ot_train.py:351 step:5K smpl:26K ep:170 epch:8.52 loss:0.440 grdn:34.844 lr:1.0e-05 updt_s:0.106 data_s:0.003
+INFO 2025-12-06 12:38:51 ot_train.py:351 step:5K smpl:27K ep:177 epch:8.85 loss:0.422 grdn:32.676 lr:1.0e-05 updt_s:0.105 data_s:0.003
+INFO 2025-12-06 12:39:16 ot_train.py:351 step:6K smpl:28K ep:184 epch:9.18 loss:0.401 grdn:32.161 lr:1.0e-05 updt_s:0.106 data_s:0.019
+INFO 2025-12-06 12:39:38 ot_train.py:351 step:6K smpl:29K ep:190 epch:9.51 loss:0.385 grdn:31.689 lr:1.0e-05 updt_s:0.104 data_s:0.003
+INFO 2025-12-06 12:39:59 ot_train.py:351 step:6K smpl:30K ep:197 epch:9.83 loss:0.362 grdn:29.830 lr:1.0e-05 updt_s:0.105 data_s:0.003
+INFO 2025-12-06 12:39:59 ot_train.py:361 Checkpoint policy after step 6000
+INFO 2025-12-06 12:40:01 ot_train.py:430 End of training
