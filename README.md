@@ -5,8 +5,8 @@ Team: Meisei Rescue
 Member: Shu Mitsuda
         Shingen Koyama
 
-Summary:
+##Summary:
+AMD Robotics Hackathon 2025 Team Meisei Rescue 
+##How To:
 
-How To:
-
-Delivery URL
+##Delivery URL
