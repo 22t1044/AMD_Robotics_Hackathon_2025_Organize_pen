@@ -11,7 +11,7 @@
 ## Submission Details
 
 ### 1. Mission Description
-- *Real world application of your mission*
+- *Rescue Robot*
 
 ### 2. Creativity
 - *What is novel or unique in your approach?*
