@@ -4,9 +4,7 @@
 
 **Team:** *37, Meisei Rescue, Shu Mitsuda,Shingen Koyama*
 
-**Summary:** *A brief description of your work*
-
-*< Images or video demonstrating your project >*
+**Summary:** *pick and place+α*
 
 ## Submission Details
 
