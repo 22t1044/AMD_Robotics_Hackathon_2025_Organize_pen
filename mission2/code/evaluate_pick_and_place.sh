@@ -8,13 +8,13 @@ CAMERAS="{ front: {type: opencv, index_or_path: 4, width: 1920, height: 1080, fp
 
 # Dataset configuration
 DATASET_SINGLE_TASK="Pick cube from source position and stack it on the fixed cube at target position"
-DATASET_REPO_ID="22t1044/eval_red-pen9"
-DATASET_ROOT="${PWD}/eval_redpen9_dataset/"
+DATASET_REPO_ID="22t1044/eval_knock_red4"
+DATASET_ROOT="${PWD}/eval_knock_red4_dataset/"
 DATASET_EPISODE_TIME_S=20
 DATASET_NUM_EPISODES=1
 
 # Policy configuration
-POLICY_PATH="/home/amddemo/lerobot/outputs/train/red-pen9/checkpoints/001000/pretrained_model/"
+POLICY_PATH="/home/amddemo/lerobot/outputs/train/knock_red4/checkpoints/001000/pretrained_model/"
 
 # Push to hub flag
 PUSH_TO_HUB=false
