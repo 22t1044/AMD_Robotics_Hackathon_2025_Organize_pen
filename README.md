@@ -19,9 +19,7 @@ Operating interfaces like levers and valves in place of humans
 
 Mission 2 aims to reduce operator workload and accelerate disaster-response operations by developing manipulator control that can safely and efficiently execute such complex actions.
 ### 2. Creativity
-- *What is novel or unique in your approach?*
-- *Innovation in design, methodology, or application*
-
+Performing a pick-and-place task using a thin rod-shaped object, with a knocking motion included partway through the sequence.
 ### 3. Technical implementations
 - *Teleoperation / Dataset capture*
     - *<Image/video of teleoperation or dataset capture>*
