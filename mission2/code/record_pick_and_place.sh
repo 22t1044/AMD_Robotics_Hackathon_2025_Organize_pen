@@ -12,7 +12,7 @@ TELEOP_PORT="/dev/ttyACM0"
 TELEOP_ID="my_awesome_leader_arm"
 
 # Dataset configuration
-DATASET_REPO_ID="22t1044/record-red-pen10"
+DATASET_REPO_ID="22t1044/record-knock_red4"
 DATASET_SINGLE_TASK="Grab the black cube"
 DATASET_NUM_EPISODES=20
 DATASET_EPISODE_TIME_S=30
