@@ -1,6 +1,3 @@
-# Delivery URL
-**### Make a fork or copy of this repo and fill in your team submission details! ###**
-
 # AMD_Robotics_Hackathon_2025_Organize_pen
 
 ## Team Information
