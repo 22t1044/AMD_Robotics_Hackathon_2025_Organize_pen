@@ -11,8 +11,13 @@
 ## Submission Details
 
 ### 1. Mission Description
-- *Real world application of your mission*
+At disaster sites, debris often restricts the working environment, making it difficult for humans to approach directly. Therefore, manipulators mounted on disaster-response robots are required to perform a wide range of tasks, such as:
 
+Removing debris to secure pathways
+
+Operating interfaces like levers and valves in place of humans
+
+Mission 2 aims to reduce operator workload and accelerate disaster-response operations by developing manipulator control that can safely and efficiently execute such complex actions.
 ### 2. Creativity
 - *What is novel or unique in your approach?*
 - *Innovation in design, methodology, or application*
