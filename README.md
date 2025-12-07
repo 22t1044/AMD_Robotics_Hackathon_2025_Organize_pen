@@ -21,17 +21,11 @@ Mission 2 aims to reduce operator workload and accelerate disaster-response oper
 ### 2. Creativity
 Performing a pick-and-place task using a thin rod-shaped object, with a knocking motion included partway through the sequence.
 ### 3. Technical implementations
-- *Teleoperation / Dataset capture*
-    - *<Image/video of teleoperation or dataset capture>*
-- *Training*
-- *Inference*
-    - *<Image/video of inference eval>*
-
+Training
+Thorough calibration was conducted to ensure stable and reliable manipulator movements.
 ### 4. Ease of use
-- *How generalizable is your implementation across tasks or environments?*
-- *Flexibility and adaptability of the solution*
-- *Types of commands or interfaces needed to control the robot*
-
+The robot can adapt even if the pen’s position shifts.
+The robot operates by placing the pen within its reachable workspace and running inference.
 ## Additional Links
 *For example, you can provide links to:*
 
